@@ -1,24 +1,22 @@
 # 💫 About Me:
 
-Hey! I'm a Computer Science enthusiast from Nepal 🇳🇵, passionate about programming, technology, and building things through code.
+Hey! I'm Dipak Jaisi, a Computer Science enthusiast from Nepal 🇳🇵, passionate about programming, technology, and building things through code.
 
 - 💻 Interested in Computer Science, Software Development, and Web Technologies.
 - 🌱 Currently learning HTML, CSS, C Programming, and Git & GitHub.
 - 🚀 Exploring Web Development and improving my programming skills.
-- 🧠 Interested in problem-solving, logical thinking, and learning new technologies.
+- 🧠 Interested in problem-solving, logical thinking, and exploring new technologies.
 - 🎯 Aspiring Software Developer with a strong interest in Computer Science.
-- 📚 Believe in continuous learning, practical experience, and building real-world projects.
+- 📚 Continuously learning, experimenting, and building projects.
 - 🇳🇵 From Nepal, dreaming big and working towards a future in technology.
 
 **"Dream. Learn. Code. Build. Repeat."**
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Socials:
 
-<!-- Add your social media links here -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/dipakjaisi536-ctrl))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipakjaisi536-ctrl)
 
 ---
 
@@ -34,17 +32,17 @@ Hey! I'm a Computer Science enthusiast from Nepal 🇳🇵, passionate about pro
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=dipakjaisi536-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=dipakjaisi536-ctrl&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakjaisi536-ctrl&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dipakjaisi536-ctrl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
