@@ -18,7 +18,7 @@ Hey! I'm a Computer Science enthusiast from Nepal 🇳🇵, passionate about pro
 
 <!-- Add your social media links here -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR-USERNAME](https://github.com/dipakjaisi536-ctrl))
 
 ---
 
